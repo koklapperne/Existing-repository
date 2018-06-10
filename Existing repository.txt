@@ -1,0 +1,1 @@
+This is the text file to the existing repository example. This requires that Git is installed on the local machine and a Github account is active. Furthermore it requires a folder with a file structure holding the files that Git has to administrate.
