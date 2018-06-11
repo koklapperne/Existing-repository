@@ -37,8 +37,10 @@ Optional: Choose GitIgnore
 Optional: Choose Licence
 # Syncronise local repository with remote repository
 ## Make a link
+```
 Git Command:
 $ git remote add origin https://github.com/username/remote-repository-name.git
+```
 ## Initial push of the project
 ```
 Git Command:
