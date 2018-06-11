@@ -46,5 +46,5 @@ $ git remote add origin https://github.com/username/remote-repository-name.git
 Git Command:
 $ git push -u origin master
 ```
-The local and the remote repository are not synchronized and ready for daily operations.
+The local and the remote repository are now synchronized and ready for daily operations.
 
