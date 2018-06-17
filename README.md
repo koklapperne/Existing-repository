@@ -33,6 +33,7 @@ Fill out Repository name
 Important! You can give the remote repository any name, but it is a good idea to choose a name similar to the local repository
 Choose: Public
 Important! The project has to be public for the initial push from the local repository
+Very important! DO NOT CHOOSE TO ADD A README FILE! If you do, the following git remote will fail. Add the readme later. This is because the remote readme file is not in the local repository!
 Optional: Choose GitIgnore
 Optional: Choose Licence
 # Syncronise local repository with remote repository
