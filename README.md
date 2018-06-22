@@ -48,4 +48,26 @@ Git Command:
 $ git push -u origin master
 ```
 The local and the remote repository are now synchronized and ready for daily operations.
+Ad the following sections to any readme-file:
+# Local repository
+```
+$ cd "/c/Users/username/Desktop/Excisting repository"
+```
+# Working on a daily basis
+## Pull from the remote repository to the local repository
+Do this before work begins in the local repository
+```
+$ git pull
+```
+## Push files from the local repository to the remote repository
+Do this on a regular basis during work
+```
+Add files and changes to files
+Git command:
+$ git add -A
+Commit changes to local repository
+Git command:
+git commit -m "Comment", remember a comment at each commit
+Push from the local repository to the remote repository
+$ git push
 
